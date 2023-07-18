@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bunnyframe/static/css/main.fca39a59.css",
+    "main.js": "/bunnyframe/static/js/main.9ab65c3d.js",
+    "static/js/787.4e4b84ad.chunk.js": "/bunnyframe/static/js/787.4e4b84ad.chunk.js",
+    "index.html": "/bunnyframe/index.html",
+    "static/media/box.svg": "/bunnyframe/static/media/box.578fa48993c4a9020937.svg",
+    "main.fca39a59.css.map": "/bunnyframe/static/css/main.fca39a59.css.map",
+    "main.9ab65c3d.js.map": "/bunnyframe/static/js/main.9ab65c3d.js.map",
+    "787.4e4b84ad.chunk.js.map": "/bunnyframe/static/js/787.4e4b84ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca39a59.css",
+    "static/js/main.9ab65c3d.js"
+  ]
+}
